@@ -17,4 +17,4 @@ Key Features;
 
 
 
-![Call center dashboard] (Screenshot 2024-08-22 204402.png)
+![Call center dashboard] (https://github.com/SALHASAID/CALL-CENTER-CUSTOMER-SERVICE-DASHBOARD/blob/main/Screenshot%202024-08-22%20204402.png)
