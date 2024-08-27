@@ -1,6 +1,20 @@
 # CALL-CENTER-CUSTOMER-SERVICE-DASHBOARD
 This repository contains the Power BI dashboard for analyzing and visualizing call center performance metrics. The dashboard provides insights into call volume, duration, customer satisfaction, response times, and more.
 
+Using EXCEL 📈and POWER BI, I was able to create a comprehensive tool to analyze and visualize call center performance. This dashboard provides actionable insights to optimize operations and improve customer satisfaction. 
+
+Data preparation:
+
+Data cleaning; I used EXCEL to clean and standardize the raw data ensuring data accuracy and consistency. This included...
+* Removing duplicates 
+* Handling missing values using IF Function, AVERAGE, MEDIAN, and MODE statistical measures.
+
+Data transformation; I employed Power Query to transform data into a more acceptable format for analysis. This included;
+* Creating calculated columns
+* Renaming columns
+* Removing columns and 
+* Data aggregation and grouping
+
 Key Features;
 
 * Total Calls Received: Displays the overall number of calls received.
