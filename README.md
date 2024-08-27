@@ -15,6 +15,9 @@ Key Features;
 * Average Calls by State: Displays the average number of calls per state.
 * Number of Calls by Weekdays: Analyzes call volume across different days.
 
+  
 
+Tools used; EXCEL and POWER BI
 
-![Call center dashboard] (https://github.com/SALHASAID/CALL-CENTER-CUSTOMER-SERVICE-DASHBOARD/blob/main/Screenshot%202024-08-22%20204402.png)
+![Screenshot](https://github.com/SALHASAID/CALL-CENTER-CUSTOMER-SERVICE-DASHBOARD/raw/main/Screenshot%202024-08-22%20204402.png)
+
