@@ -15,3 +15,6 @@ Key Features;
 * Average Calls by State: Displays the average number of calls per state.
 * Number of Calls by Weekdays: Analyzes call volume across different days.
 
+
+
+![Call center dashboard] (Screenshot 2024-08-22 204402.png)
